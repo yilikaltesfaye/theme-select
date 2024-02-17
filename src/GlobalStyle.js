@@ -9,9 +9,8 @@ const GlobalStyle = createGlobalStyle`
         text-decoration: none;
     }
     body {
-        background: #32eb87;
         min-height: 100vh;
-        font-size: 18px;
+        font-size: 16px;
         font-family: cursive;
     }
     a {
